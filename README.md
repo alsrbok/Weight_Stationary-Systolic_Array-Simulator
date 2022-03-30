@@ -6,6 +6,7 @@ This is TPU-like accelerator
 I implemented Matrix Multiply Uniy, Weight FIFO, Systolic Data Setup, and Accumulator.
 
 This systolic array can be scale up and down based on constants in constant_variable.py
+
 It can successfully print out the result and offer the required cycle between dram and sram.
 
 Check out one example of the result : output.pdf
