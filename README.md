@@ -1,4 +1,4 @@
-# Weight-Stationary-Systolic_Array-Simulator
+# Weight-Stationary-Systolic-Array-Simulator
 This is TPU-like accelerator
 
 <img width="652" alt="image" src="https://user-images.githubusercontent.com/43400865/160793105-dd7c277f-df3e-4e3a-a635-72ca914c1195.png">
